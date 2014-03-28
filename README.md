@@ -25,6 +25,8 @@ even if you implement this solution to your website you can reach outstanding re
 
 In this article, you can learn how to create an SMS solution in your website.
 
+![](http://www.ozekisms.com/attachments/1/How-to-send-php-sms-from-website-with-ozeki-ng-sms-gateway.gif)
+
 To integrate an SMS functionality to your website,all you have to do is to follow 4 easy and quick steps. 
 
 •	Step 1 –Install Ozeki NG SMS Gateway to your computer. 
