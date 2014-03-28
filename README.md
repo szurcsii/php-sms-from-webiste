@@ -37,6 +37,7 @@ To get this solution working you have to save the sendsms.html file to your webs
 
 Here is the source to create the html file:
 ...
+
 <html>
  <body>
    <h1>My SMS form</h1>
@@ -58,6 +59,7 @@ Here is the source to create the html file:
    </form>
  </body>
 </html>
+
 ...
 
 •	Step 3 – Create your PHP SMS Script
