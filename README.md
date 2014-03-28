@@ -36,8 +36,7 @@ You can download and try the trial version for free in the following website: ht
 To get this solution working you have to save the sendsms.html file to your webserver.
 
 Here is the source to create the html file:
-...
-
+```
 <html>
  <body>
    <h1>My SMS form</h1>
@@ -59,8 +58,7 @@ Here is the source to create the html file:
    </form>
  </body>
 </html>
-
-...
+```
 
 •	Step 3 – Create your PHP SMS Script
 
@@ -68,7 +66,7 @@ The HTML form will send the data about your text message to your php script, whi
 
 Here is the source code to create the php script:
 
-...
+```
 ########################################################
 # Login information for the SMS Gateway
 ########################################################
@@ -137,7 +135,7 @@ $message = $_POST['message'];
 $debug = true;
 
 ozekiSend($phonenum,$message,$debug);
-...
+```
 
 (In order to be able to use this PHP script, you need to have the Ozeki NG SMS Gateway software 
 installed on your computer. 
